@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Satrio Bayu Pamungkas</h1>
-<h3 align="center">I'm an Indonesian college student interested in web development, front-end, and back-end. I'm open to collaborate to any creative and innovative project.</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Satrio Bayu Pamungkas</h1>
+<h3 align="left">I'm an Indonesian college student interested in web development, front-end, and back-end. I'm open to collaborate to any creative and innovative project.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satriobayu&label=Profile%20views&color=0e75b6&style=flat" alt="satriobayu" /> </p>
 
 - 🌱 I’m currently learning **Laravel, React-Native, and Next.js**
 
